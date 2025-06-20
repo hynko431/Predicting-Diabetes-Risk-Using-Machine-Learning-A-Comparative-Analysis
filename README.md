@@ -1,0 +1,2 @@
+# Predicting-Diabetes-Risk-Using-Machine-Learning-A-Comparative-Analysis
+🔍 Diabetes Prediction Using Machine Learning This project uses the Pima Indians Diabetes dataset to build and compare classification models—Logistic Regression, Random Forest, and XGBoost—for predicting diabetes risk. It includes data cleaning, model evaluation, feature importance analysis, and insights to support early medical intervention.
